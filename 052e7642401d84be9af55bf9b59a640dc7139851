@@ -1,0 +1,8 @@
+Code-Review+2: Elliott Hughes <enh@google.com>
+Autosubmit+1: Bob Badour <bbadour@google.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-by: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-at: Mon, 27 Apr 2020 17:04:41 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/external/libutf/+/1294897
+Project: platform/external/libutf
+Branch: refs/heads/master
