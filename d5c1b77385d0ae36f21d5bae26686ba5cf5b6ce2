@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "959e85b2_da510ee2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1723033
+      },
+      "writtenOn": "2020-07-03T07:24:06Z",
+      "side": 1,
+      "message": "Hi Lukas,\n\nWould you please help take a look at this simple CL? To port lang-id, we have forked aosp/libutf in CrOS. Then we found that it can not pass the compilation because some \"unreachable returns\". We have modified it in CrOS here https://chromium-review.googlesource.com/c/aosp/platform/external/libutf/+/2248286 and we think maybe it is also good to sync it to upstream. \n\nThanks!\n\nBest,\nHonglin",
+      "revId": "d5c1b77385d0ae36f21d5bae26686ba5cf5b6ce2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
