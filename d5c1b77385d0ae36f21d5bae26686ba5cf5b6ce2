@@ -34,6 +34,24 @@
       "revId": "d5c1b77385d0ae36f21d5bae26686ba5cf5b6ce2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9c0a7574_77fc822d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1723033
+      },
+      "writtenOn": "2020-07-06T23:06:48Z",
+      "side": 1,
+      "message": "Thanks, Lukas! No problem, let\u0027s leave it as it is then.",
+      "parentUuid": "f13a372f_09ac74e2",
+      "revId": "d5c1b77385d0ae36f21d5bae26686ba5cf5b6ce2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
