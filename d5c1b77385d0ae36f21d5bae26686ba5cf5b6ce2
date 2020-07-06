@@ -16,6 +16,24 @@
       "revId": "d5c1b77385d0ae36f21d5bae26686ba5cf5b6ce2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f13a372f_09ac74e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1130919
+      },
+      "writtenOn": "2020-07-06T14:37:31Z",
+      "side": 1,
+      "message": "Thanks Honglin for doing that! The upstream is in: googl3/third_party/utf And as this code seems to lack tests, it\u0027d seem better to me for simplicity rather not to touch it unless it has functional implications :) Please let me know if you disagree or think this has some implications other than cosmetic.",
+      "parentUuid": "959e85b2_da510ee2",
+      "revId": "d5c1b77385d0ae36f21d5bae26686ba5cf5b6ce2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
