@@ -1,4 +1,15 @@
 // We only build the static library at the moment.
+package {
+    default_applicable_licenses: ["external_libutf_license"],
+}
+
+license {
+    name: "external_libutf_license",
+    visibility: [":__subpackages__"],
+    license_kinds: ["SPDX-license-identifier-LPL-1.02","SPDX-license-identifier-MIT"],
+    license_text: ["NOTICE"],
+}
+
 cc_library_static {
     name: "libutf",
     srcs: [
